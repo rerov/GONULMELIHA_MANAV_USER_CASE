@@ -65,7 +65,7 @@ if (window.location.pathname === "/") {
       mainContainer.innerHTML = `
         <div class="container">
           <div class="eb-wechoose-banner-title">
-            <h2 class="eb-wechoose-title-primary">Sizin İçin Seçtiklerimiz</h2>
+            <h2 class="eb-wechoose-title-primary">Beğenebileceğinizi düşündüklerimiz</h2>
           </div>
           <div class="eb-wechoose-slider-main">
             <div class="eb-wechoose-nav-button eb-wechoose-prev-button">
